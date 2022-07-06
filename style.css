@@ -42,6 +42,6 @@ button, select {
 .delete {
     background: red;
 }
-.edit, select {
+ select {
     background: #339933;
 }
